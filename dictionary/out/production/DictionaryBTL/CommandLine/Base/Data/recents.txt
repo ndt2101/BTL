@@ -1,0 +1,135 @@
+@hi-fi /null/ 
+@fib /fib/
+*  danh từ
+- điều nói dối nhỏ; chuyện bịa
+*  nội động từ
+- nói dối, nói bịa
+*  danh từ
+- (thể dục,thể thao) cú đấm (quyền Anh)
+@coma /'koumi:/
+*  danh từ
+- (y học) sự hôn mê
+*  danh từ,  số nhiều comae
+- (thực vật học) mào lông (ở đầu hạt một số cây)
+- (thiên văn học) đầu sao chổi
+- (vật lý) côma
+@cab-runner /'kæb,rʌnə/ (cab-tout)
+-tout)
+/'kæbtaut/
+*  danh từ
+- người làm nghề đi gọi xe tắc xi; người làm nghề đi gọi xe ngựa thuê
+- người xếp dở hành lý (trên xe tắc xi hoặc xe ngựa)
+@hiccough /'hikʌp/ (hiccup)
+*  danh từ
+- (y học) nấc
+*  nội động từ
+- nấc
+*  ngoại động từ
+- vừa nói vừa nấc
+@aye /ei/
+*  phó từ
+- luôn luôn; trong mọi trường hợp
+=for aye+ mãi mãi
+@yeah /null/
+yeah
+@economical /,i:kə'nɔmikəl/
+*  tính từ
+- tiết kiệm
+- kinh tế
+@economic /,i:kə'nɔmik/
+*  tính từ
+- kinh tế
+- mang lợi, có lợi (việc kinh doanh...)
+@hi /hai/
+*  thán từb
+- (từ Mỹ,nghĩa Mỹ) này!, ê! (gọi, chào)
+@comicality /,kɔmi'kæliti/
+*  danh từ
+- tính hài hước, tính khôi hài
+- trò khôi hài
+@a font /ɑ:'fɜ:ɳ/
+*  phó từ
+- thấu triệt, cặn kẽ, rõ ngọn nghành
+@a priori /'eiprai'ɔ:rai/
+*  danh từ & phó từ
+- theo cách suy diễn, theo cách diễn dịch
+- tiên nghiệm
+=probability a_priori+ (toán học) xác xuất tiên nghiệm
+@a posteriori /'eipɔs,teri'ɔ:rai/
+*  phó từ & tính từ
+- theo phép quy nạp
+=method a_posteriori+ phương pháp quy nạp
+- hậu nghiệm
+=probability a_posteriori+ (toán học) xác suất hậu nghiệm
+@babbit-metal /'bæbit'metl/
+*  danh từ
+- (kỹ thuật) hợp kim babit
+@c.o.d. /'si:oudi:/
+*  (viết tắt) của cash on delivery, trả tiền lúc nhận hàng
+@a fortiori /'ei,fɔ:ti'ɔ:rai/
+*  phó từ
+- huống hồ, huống là
+@b.b.c /'bi:bi:'si:/
+*  (viết tắt) của British Broad-casting Corporation đài B.B.C. (Anh)
+@hiatuses /hai'eitəs/
+*  danh từ,  số nhiều hiatuses  /hai'eitəsiz/
+- chỗ gián đoạn, chỗ đứt quãng, chỗ thiếu sót (trong một loạt sự vật, một bài tường thuật, một loạt chứng cớ...)
+- (ngôn ngữ học) chỗ vấp hai nguyên âm
+@hiatus /hai'eitəs/
+*  danh từ,  số nhiều hiatuses  /hai'eitəsiz/
+- chỗ gián đoạn, chỗ đứt quãng, chỗ thiếu sót (trong một loạt sự vật, một bài tường thuật, một loạt chứng cớ...)
+- (ngôn ngữ học) chỗ vấp hai nguyên âm
+@a-plenty /ə'plenti/
+*  phó từ
+- (từ Mỹ,nghĩa Mỹ) nhiều, dồi dào, phong phú
+@animal /'æniməl/
+*  danh từ
+- động vật, thú vật
+=domestic animal+ động vật nuôi
+=wild animal+ động vật hoang dại
+- người đầy tính thú
+*  tính từ
+- (thuộc) động vật, (thuộc) thú vật
+=the animal kingdom+ giới động vật
+- (thuộc) xác thịt
+=animal spirits+ tính sôi nổi, tính yêu đời
+@a b c - book /'eibi:'si:buk/
+*  danh từ
+- sách vỡ lòng, sách học vần
+@a b c /'eibi:'si:/
+*  danh từ
+- bảng chữ cái
+- khái niệm cơ sở, cơ sở
+=a_b_c of chemistry+ khái niệm cơ sở về hoá học, cơ sở hoá học
+- (ngành đường sắt) bảng chỉ đường theo abc
+@aye-aye /'aiai/
+*  danh từ
+- (động vật học) khỉ aiai (ở Ma-đa-gát-ca)
+@comic /'kɔmik/
+*  tính từ
+- hài hước, khôi hài
+=a comic song+ bài hát hài hước
+=comic strip+ trang tranh chuyện vui (ở báo)
+- (thuộc) kịch vui
+=a comic writer+ nhà soạn kịch vui
+*  danh từ
+- (thông tục) diễn viên kịch vui
+- (từ Mỹ,nghĩa Mỹ), ((thường) số nhiều) trang tranh chuyện vui (ở báo)
+- (từ Mỹ,nghĩa Mỹ) báo tranh chuyện vui
+@conic /'kɔnik/
+*  tính từ
+- (thuộc) hình nón, (thuộc) mặt nón
+@hix /null/
+hix
+@comical /'kɔmikəl/
+*  tính từ
+- hài hước, khôi hài, tức cười; vui nhộn
+- kỳ cục, lố bịch
+@a-going /ə'gouiɳ/
+*  tính từ & phó từ
+- đang chạy, đang chuyển động; đang hoạt động, đang tiến hành
+=to set a-going+ cho chuyển động, cho chạy (máy...)
+@c/o /si:'ou/
+*  (viết tắt) của (care of)
+- nhờ... chuyển hộ (ghi ở thư từ)
+=Mr. T. White, c/o Mr. R. Smith+ ông T. Oai nhờ ông R. Xmít chuyển hộ
